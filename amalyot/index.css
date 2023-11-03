@@ -1,0 +1,1360 @@
+body{
+    
+        overflow-x: hidden ;
+     
+}
+
+.open{
+    width: 100%;
+    height: 80px;
+    background-color: white;
+    position: fixed;
+    z-index: 2
+
+}
+
+.open1{
+    position: relative;
+    left: 80px;
+    top: 20px;
+}
+
+.open2{
+    position: relative;
+    left: 280px;
+    top: -12px;
+    color: black;
+}
+
+.open3{
+    position: relative;
+    color: red;
+    width: 55px;
+    left: 280px;
+
+    top: -23px;
+}
+
+
+.open4{
+    position: relative;
+    top: -68px;
+    left: 380px;
+    color: #7F7F90;
+}
+
+
+.open5{
+    position: relative;
+    top: -100px;
+    left: 480px;
+    color: #7F7F90;
+}
+
+.open6{
+    position: relative;
+    top: -130px;
+    left: 580px;
+    color: #7F7F90;
+}
+
+.open7{
+    position: relative;
+    top: -160px;
+    left: 680px;
+    color: #7F7F90;
+}
+
+.open8{
+    position: relative;
+    top: -193px;
+    left: 770px;
+    color: #7F7F90;
+}
+
+.open9{
+    position: relative;
+    top: -230px;
+    left: 850px;
+}
+
+
+.open10{
+    position: relative;
+    top: -263px;
+    left: 1000px;
+    color: #7F7F90;
+}
+
+.open11{
+    position: relative;
+    top: -300px;
+    left: 1120px;
+    width: 150px;
+    height: 150px;
+
+    
+}
+
+.open11 button {
+        border-radius: 30px!important;
+}
+
+.open12{
+    position: relative;
+    width: 100%;
+    height: 650px;
+    background-color:   #EEEEEE;
+}
+
+.open13{
+    position: relative;
+    top: 250px;
+    left: 150px;
+    font-family: fantasy;
+}
+
+.open14{
+    position: relative;
+    top: 270px;
+    left: 150px;
+    color: #714F7A;
+}
+.open15{
+    position: relative;
+    top: 280px;
+    left: 140px;
+}
+.open15 button {
+    border-radius: 30px!important;
+    
+}
+
+.open16{
+    position: relative;
+    top: 245px;
+    left: 290px;
+}
+
+
+.open16 button {
+    border-radius: 30px!important;
+    
+}
+
+.open17{
+    position: relative;
+    left: 750px;
+    top: -150px;
+    width: 450px;
+    height: 450px;
+}
+
+
+
+.open18{
+    position: relative;
+    text-align: center;
+    top: 50px;
+}
+
+.open19{
+    position: relative;
+   left: 550px;
+    top: 40px;
+    font-family: fantasy;
+}
+
+.open20{
+    position: relative;
+    left: 690px;
+    color: red;
+    font-family: fantasy;
+}
+
+
+.open21{
+    position: relative;
+    width: 750px;
+    height: 800px;
+    left: 50px;
+    top: 25px;
+}
+
+
+.open22{
+    position: relative;
+    width: 450px;
+    height: 140px;
+    background-color: white;
+    left: 200px;
+    top: -200px;
+}
+
+.open23{
+    position: relative;
+    text-align: center;
+    top: 25px;
+}
+
+.open24{
+    position: relative;
+    text-align: center;
+    top: 25px;
+    color: red;
+}
+
+.open25{
+    position: relative;
+    left: 820px;
+    top: -820px;
+}
+
+.open26{
+    position: relative;
+    left: 820px;
+    top: -820px;
+}
+
+.open27{
+    position: relative;
+    left: 860px;
+    top: -850px;
+}
+.open28{
+    position: relative;
+    left: 820px;
+    top: -860px;
+}
+
+.open29{
+    position: relative;
+    top: -890px;
+    left: 860px;
+}
+
+.open30{
+    position: relative;
+    left: 820px;
+    top: -900px;
+}
+
+.open31{
+    position: relative;
+    left: 860px;
+    top: -930px;
+}
+
+.open32{
+    position: relative;
+    left: 820px;
+    top: -970px;
+}
+
+.open33{
+    position: relative;
+    top: -90px;
+}
+
+.open34{
+    position: relative;
+    width: 450px;
+    height: 280px;
+    left: 820px;
+    top: -1110px;
+}
+
+.open35{
+    position: relative;
+    width: 100%;
+    height: 650px;
+    background-color:#EEEEEE;
+    top: -1050px;
+}
+
+.open36{
+    position: relative;
+    width: 400px;
+    height: 520px;
+    background-color: red;
+    left: 50px;
+    top: 50px;
+}
+
+.open37{
+    position: relative;
+    left: 35px;
+    top: 15px;
+    color: white;
+}
+
+.open38{
+    position: relative;
+    color: white;
+    left: 50px;
+    top: 45px;
+}
+
+.open39{
+    position: relative;
+    width: 150px;
+    height: 40px;
+    background-color: #DD5A5A;
+    border: none;
+    border-radius: 50px;
+    color: white;
+    left: 120px;
+
+}
+
+
+.open39:hover{
+    background-color: white;
+    color: red;
+}
+
+.open40{
+    position: relative;
+    width: 270px;
+    height: 430px;
+    background-color: white;
+    top: -430px;
+    left: 480px;
+    transition: all 0.5s;
+}
+
+.open41{
+    position: relative;
+    left: 80px;
+    top: 40px;
+}
+.open42{
+    position: relative;
+    top: 65px;
+    left: 45px;
+}
+.open43{
+    position: relative;
+    top: 65px;
+    left: 45px;
+    color: #6CA0D6;
+}
+
+
+.open44{
+    position: relative;
+    width: 270px;
+    height: 430px;
+    background-color: white;
+    top: -860px;
+    left: 780px;
+    transition: all 0.5s;
+}
+
+.open45{
+    position: relative;
+    left: 80px;
+    top: 40px;
+}
+.open46{
+    position: relative;
+    top: 65px;
+    left: 45px;
+}
+.open47{
+    position: relative;
+    top: 65px;
+    left: 45px;
+    color: #6CA0D6;
+}
+
+
+
+
+.open48{
+    position: relative;
+    width: 270px;
+    height: 430px;
+    background-color: white;
+    top: -1290px;
+    left: 1080px;
+    transition: all 0.5s;
+}
+
+.open49{
+    position: relative;
+    left: 80px;
+    top: 40px;
+}
+.open50{
+    position: relative;
+    top: 65px;
+    left: 45px;
+}
+.open51{
+    position: relative;
+    top: 65px;
+    left: 45px;
+    color: #6CA0D6;
+}
+
+
+.open40:hover{
+    transform: scale(1.1, 1.1);
+}
+
+.open44:hover{
+    transform: scale(1.1, 1.1);
+}
+
+.open48:hover{
+    transform: scale(1.1, 1.1);
+}
+
+
+.open52{
+    position: relative;
+    width: 100%;
+    height: 350px;
+    top: -1050px;
+     
+}
+
+.open53{
+    position: relative;
+    width: 100%;
+    height: 350px;
+    background-color: rgba(8, 0, 0, .5);
+    top: -1400px;
+}
+
+.open54{
+    position: relative;
+    color: white;
+    top: 125px;
+    left: 250px;
+}
+
+.open55{
+    position: relative;
+    color: white;
+    top: 30px;
+    left: 500px;
+}
+
+.open56{
+    position: relative;
+    color: white;
+    top: -68px;
+    left: 750px;
+}
+
+.open57{
+    position: relative;
+    color: white;
+    top: -160px;
+    left: 1050px;
+}
+
+
+
+
+
+
+
+
+.menu .nav-tabs {
+    border: 0;
+  }
+  
+  .menu .nav-link {
+    margin: 0 10px;
+    padding: 10px 5px;
+    transition: 0.3s;
+    color: var(--color-secondary);
+    border-radius: 0;
+    cursor: pointer;
+    height: 100%;
+    border: 0;
+    border-bottom: 2px solid #b6b6bf;
+  }
+  
+  @media (max-width: 575px) {
+    .menu .nav-link {
+      margin: 0 10px;
+      padding: 10px 0;
+    }
+  }
+  
+  .menu .nav-link i {
+    padding-right: 15px;
+    font-size: 48px;
+  }
+  
+  .menu .nav-link h4 {
+    font-size: 18px;
+    font-weight: 400;
+    margin: 0;
+    font-family: var(--font-secondary);
+  }
+  
+  @media (max-width: 575px) {
+    .menu .nav-link h4 {
+      font-size: 16px;
+    }
+  }
+  
+  .menu .nav-link:hover {
+    color: var(--color-primary);
+  }
+  
+  .menu .nav-link.active {
+    color: var(--color-primary);
+    border-color: var(--color-primary);
+  }
+  
+  .menu .tab-content .tab-header {
+    padding: 30px 0;
+  }
+  
+  .menu .tab-content .tab-header p {
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #676775;
+    margin-bottom: 0;
+  }
+  
+  .menu .tab-content .tab-header h3 {
+    font-size: 36px;
+    font-weight: 600;
+    color: var(--color-primary);
+  }
+  
+  .menu .tab-content .menu-item {
+    -moz-text-align-last: center;
+    text-align-last: center;
+  }
+  
+  .menu .tab-content .menu-item .menu-img {
+    padding: 0 60px;
+    margin-bottom: 15px;
+  }
+  
+  .menu .tab-content .menu-item h4 {
+    font-size: 22px;
+    font-weight: 500;
+    color: var(--color-secondary);
+    font-family: var(--font-secondary);
+    font-weight: 30px;
+    margin-bottom: 5px;
+  }
+  
+  .menu .tab-content .menu-item .ingredients {
+    font-family: var(--font-secondary);
+    color: #8d8d9b;
+    margin-bottom: 5px;
+  }
+  
+  .menu .tab-content .menu-item .price {
+    font-size: 24px;
+    font-weight: 700;
+    color: var(--color-primary);
+  }
+
+
+  .open58:hover{
+    color: red;
+  }
+
+  .open59:hover{
+    color: red;
+  }
+
+  .open60:hover{
+    color: red;
+  }
+
+  .open61:hover{
+    color: red;
+  }
+
+  .open62{
+    position: relative;
+    top: -1320px;
+  }
+
+.open63{
+    position: relative;
+    top: -1350px;
+    text-align: center;
+}
+
+
+
+.open64{
+  position: relative;
+  width: 100%;
+  height: 650px;
+  background-color: #EEEEEE;
+}
+
+.open65{
+  position: relative;
+  text-align: center;
+  top: 80px;
+  color: #989EA3;
+}
+
+
+.open66{
+  position: relative;
+  font-family: fantasy;
+  text-align: center;
+  top: 80px;
+}
+
+.open68{
+  position: relative;
+  left: 250px;
+  top: 120px;
+}
+
+.open69{
+  position: relative;
+  color: red;
+  left: 300px;
+  top: -70px;
+}
+
+.open70{
+  position: relative;
+  left: 320px;
+  top: -112px;
+}
+
+.open71{
+  position: relative;
+  color: red;
+  left: 340px;
+  top: -75px;
+}
+
+.open72{
+  position: relative;
+  top: -65px;
+}
+
+.open73{
+  position: relative;
+  top: -65px;
+  color: #989EA3;
+}
+
+.open74{
+  position: relative;
+  top: -65px;
+}
+
+.open75{
+  position: relative;
+  left: 550px;
+  top: -150px;
+}
+
+.open76{
+  position: relative;
+  width: 200px;
+  height: 200px;
+  border-radius: 150px;
+  left: 743px;
+  top: -352px;
+  z-index: 1;
+}
+.open77{
+  position: relative;
+  width: 215px;
+  height: 215px;
+  border-radius: 150px;
+  background-color: white;
+  left: 850px;
+  top: -560px;
+}
+
+.open78{
+  position: relative;
+  width: 450px;
+  height: 650px;
+}
+
+.open79{
+  position: relative;
+  width: 450px;
+  height: 650px;
+  right: 5px;
+}
+
+.open80{
+  position: relative;
+  width: 450px;
+  height: 650px;
+  left: 900px;
+  top: -650px;
+}
+
+.open81{
+  text-align: center;
+  position: relative;
+  top: 50px;
+}
+.open82{
+  position: relative;
+  text-align: center;
+  font-family: fantasy;
+  top: 55px;
+}
+.open83{
+  position: relative;
+  width: 450px;
+  height: 650px;
+  background-color: rgba(8, 0, 0, .5);
+  top: -1300px;
+}
+
+.open84{
+  position: relative;
+  width: 450px;
+  height: 650px;
+  background-color: rgba(8, 0, 0, .5);
+  top: -1950px;
+  left: 450px;
+}
+
+.open85{
+  position: relative;
+  width: 450px;
+  height: 650px;
+  background-color: rgba(8, 0, 0, .5);
+  top: -2600px;
+  left: 900px;
+}
+.open86{
+  position: relative;
+  color: white;
+  top: 340px;
+  left: 50px;
+}
+
+.open87{
+  position: relative;
+  color: white;
+  top: 340px;
+  left: 50px;
+}
+
+.open88{
+  position: relative;
+  top: 330px;
+  left: 45px;
+}
+
+.open89{
+  position: relative;
+  color: white;
+  top: 350px;
+  left: 25px;
+}
+
+
+.open90{
+  position: relative;
+  color: white;
+  top: 350px;
+  left: 50px;
+}
+
+.open91{
+  position: relative;
+  color: white;
+  top: 350px;
+  left: 50px;
+}
+
+.open92{
+  position: relative;
+  top: 338px;
+  left: 50px;
+}
+.open93{
+  position: relative;
+  color: white;
+  top: 350px;
+  left: 50px;
+}
+
+.open94{
+  position: relative;
+  color: white;
+  top: 350px;
+  left: 50px;
+}
+
+.open95{
+  position: relative;
+  color: white;
+  top: 350px;
+  left: 50px;
+}
+
+.open96{
+  position: relative;
+  top: 340px;
+  left: 50px;
+}
+
+.open97{
+  position: relative;
+  color: white;
+  top: 350px;
+  left: 50px;
+}
+.open98{
+  position: relative;
+  top: -2550px;
+  left: 620px;
+}
+
+.open99{
+  position: relative;
+  width: 100%;
+  height: 700px;
+  background-color: #EEEEEE;
+  top: -2500px;
+}
+
+.open100{
+  position: relative;
+  text-align: center;
+  top: 50px;
+  color: #989EA3;
+}
+
+.open101{
+  position: relative;
+  text-align: center;
+  top: 50px;
+}
+.open102{
+  position: relative;
+ width: 350px;
+ height: 500px;
+ background-color: white;
+ left: 50px;
+ transition: all 0.5s;
+}
+.open103{
+  width: 350px;
+  height: 250px;
+}
+.open104{
+  position: relative;
+  text-align: center;
+  top: 15px;
+}
+
+.open105{
+  position: relative;
+  text-align: center;
+  color: #989EA3;
+  top: 8px;
+}
+
+.open106{
+  font-size: 11px;
+  left: 35px;
+  position: relative;
+  top: 15px;
+  color: #989EA3;
+}
+
+
+
+
+.open107{
+  position: relative;
+ width: 350px;
+ height: 500px;
+ background-color: white;
+ left: 450px;
+ top: -500px;
+ transition: all 0.5s;
+}
+.open108{
+  width: 350px;
+  height: 250px;
+}
+.open109{
+  position: relative;
+  text-align: center;
+  top: 15px;
+}
+
+.open110{
+  position: relative;
+  text-align: center;
+  color: #989EA3;
+  top: 8px;
+}
+
+.open111{
+  font-size: 11px;
+  left: 35px;
+  position: relative;
+  top: 15px;
+  color: #989EA3;
+}
+
+
+
+
+
+.open112{
+  position: relative;
+ width: 350px;
+ height: 500px;
+ background-color: white;
+ left: 850px;
+ top: -1000px;
+ transition: all 0.5s;
+}
+.open113{
+  width: 350px;
+  height: 250px;
+}
+.open114{
+  position: relative;
+  text-align: center;
+  top: 15px;
+}
+
+.open115{
+  position: relative;
+  text-align: center;
+  color: #989EA3;
+  top: 8px;
+}
+
+.open116{
+  font-size: 11px;
+  left: 35px;
+  position: relative;
+  top: 15px;
+  color: #989EA3;
+}
+
+
+.open102:hover{
+  transform: scale(1.1, 1.1);
+}
+
+.open107:hover{
+  transform: scale(1.1 ,1.1);
+}
+
+
+.open112:hover{
+  transform: scale(1.1 , 1.1);
+}
+
+
+.open117{
+  position: relative;
+  top: -900px;
+  text-align: center;
+}
+
+.open118{
+  position: relative;
+  top: -890px;
+  text-align: center;
+}
+
+.open119{
+  position: relative;
+  width: 420px;
+  height: 650px;
+  top: -850px;
+  left: 50px;
+}
+
+.open120{
+  position: relative;
+  width: 750px;
+  height: 650px;
+  background-color: #EEEEEE;
+  left: 470px;
+  top: -1500px;
+}
+
+.open121{
+  position: relative;
+  top: 80px;
+  left: 50px;
+}
+
+.open122{
+  position: relative;
+  left: 280px;
+  top: 35px;
+}
+.open123{
+  position: relative;
+  left: 510px;
+  top: -10px;
+}
+.open124{
+  position: relative;
+  top: 30px;
+  left: 50px;
+}
+
+.open125{
+  position: relative;
+  left: 280px;
+  top: -15px;
+}
+.open126{
+  position: relative;
+  left: 510px;
+  top: -60px;
+}
+
+.open127{
+  position: relative;
+  left: 70px;
+}
+
+.open128{
+  position: relative;
+  top: 50px;
+  left: 220px;
+  width: 250px;
+  height: 250px;
+}
+.open128 button {
+  border-radius: 30px!important;
+}
+
+.open129{
+  position: relative;
+  top: -1500px;
+  text-align: center;
+}
+
+.open130{
+  position: relative;
+  top: -1500px;
+  text-align: center;
+  font-family: fantasy;
+}
+
+.open131{
+  position: relative;
+  width: 1100px;
+  top: -1520px;
+  left: 100px;
+}
+
+
+.open132{
+  position: relative;
+  width: 530px;
+  height: 120px;
+  top: -1480px;
+  left: 100px;
+  background-color: #F4F4F4;
+}
+
+.open133{
+  position: relative;
+left: 40px;
+top: 20px;
+}
+.open134{
+position: relative;
+left: 120px;
+top: -40px;
+color: #6C757D;
+}
+
+.open135{
+  position: relative;
+  left: 110px;
+  top: -30px;
+}
+
+
+
+
+.open136{
+  position: relative;
+  width: 530px;
+  height: 120px;
+  top: -1600px;
+  left: 680px;
+  background-color: #F4F4F4;
+
+}
+
+.open137{
+  position: relative;
+left: 40px;
+top: 20px;
+}
+.open138{
+position: relative;
+left: 120px;
+top: -50px;
+color: #6C757D;
+}
+
+.open139{
+  position: relative;
+  left: 110px;
+  top: -50px;
+}
+
+
+
+
+
+
+
+.open140{
+  position: relative;
+  width: 530px;
+  height: 120px;
+  top: -1550px;
+  left: 100px;
+  background-color: #F4F4F4;
+}
+
+.open141{
+  position: relative;
+left: 40px;
+top: 20px;
+}
+.open142{
+position: relative;
+left: 120px;
+top: -50px;
+color: #6C757D;
+}
+
+.open143{
+  position: relative;
+  left: 110px;
+  top: -50px;
+}
+
+
+
+
+.open144{
+  position: relative;
+  width: 530px;
+  height: 120px;
+  top: -1670px;
+  left: 680px;
+  background-color: #F4F4F4;
+
+}
+
+.open145{
+  position: relative;
+left: 40px;
+top: 20px;
+}
+.open146{
+position: relative;
+left: 120px;
+top: -50px;
+color: #6C757D;
+}
+
+.open147{
+  position: relative;
+  left: 110px;
+  top: -50px;
+}
+
+.open148{
+  width: 1100px;
+  height: 550px;
+  background-color: white;
+ position: relative;
+ box-shadow: 5px 10px 8px 10px #888888;
+ top: -1600px;
+ left: 100px;
+}
+
+.open149{
+  position: relative;
+  top: 50px;
+  left: 25px;
+}
+
+
+
+.open150{
+  position: relative;
+  top: -5px;
+  left: 525px;
+}
+
+.open151{
+  position: relative;
+  left: 24px;
+  top: 25px;
+}
+
+.open152{
+  position: relative;
+  top: 55px;
+  left: 22px;
+}
+
+
+.open153{
+  position: relative;
+  top: 100px;
+  width: 30;
+  height: 30px;
+  left: 400px;
+}
+
+.open153 button{
+  border-radius: 30px !important;
+}
+
+.open154{
+  position: relative;
+  width: 100%;
+  height: 560px;
+  background-color: #1F1F24;
+  top: -1500px;
+}
+
+.open155{
+  position: relative;
+  top: 55px;
+  left: 105px;
+}
+
+.open156{
+  position: relative;
+  color: white;
+  left: 160px;
+  top: 15px;
+}
+
+.open157{
+  position: relative;
+  color: #8FB2BA;
+  left: 150px;
+  top: 25px;
+}
+
+.open158{
+  position: relative;
+  top: -95px;
+  left: 450px;
+}
+
+.open159{
+  position: relative;
+  color: white;
+  left: 520px;
+  top: -135px;
+}
+
+.open160{
+  position: relative;
+  color: #8FB2BA;
+  left: 520px;
+  top: -135px;
+}
+
+.open161{
+  position: relative;
+  top: -243px;
+  left: 830px;
+}
+
+.open162{
+  position: relative;
+  top: -275px;
+  left: 880px;
+  color: white;
+}
+
+.open163{
+  position: relative;
+  top: -275px;
+  left: 880px;
+  color: #8FB2BA;
+}
+
+
+.open164{
+  position: relative;
+  color: white;
+  left: 1110px;
+  top: -390px;
+}
+
+.open165{
+  position: relative;
+  top: -380px;
+  left: 1100px;
+}
+
+.open166{
+  position: relative;
+  left: 1105px;
+  top: -380px;
+}
+
+.open167{
+  position: relative;
+  top: -380px;
+  left: 1110px;
+}
+
+.open168{
+  position: relative;
+  top: -380px;
+  left: 1115px;
+}
+
+.open169{
+  position: relative;
+  top: -280px;
+  left: 130px;
+}
+
+.open170{
+  position: relative;
+  color: #8FB2BA;
+  top: -250px;
+  left: 600px;
+  font-size: 14px;
+
+}
+
+.open171{
+  position: relative;
+  left: 130px;
+  top: -50px;
+  color: white;
+}
+
